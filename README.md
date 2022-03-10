@@ -1,4 +1,4 @@
-!Hey there [this is an image](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif)
+Hey there ![this is an image](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif)
 
 <!--
 **Deepak9829/Deepak9829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
