@@ -1,4 +1,4 @@
-## Hii <�devs/>! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">, This is Deepak ⚡
+## Hii <devs/>! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">, This is Deepak ⚡
 
 <!--
 **Deepak9829/Deepak9829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
