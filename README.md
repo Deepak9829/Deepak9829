@@ -31,7 +31,8 @@
 
 <img align='left' src='https://raw.githubusercontent.com/Deepak9829/IMAGES/master/WhatsApp%20Image%202022-03-14%20at%205.02.37%20PM.jpeg' width="240" height="230" >
 
-I'm tech enthusiasts who wants to explore & learn the latest technologies to makes lives better. I am highly fixated and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Automation, and many more to drive success in the technological world.
+I'm tech enthusiasts who wants to explore & learn the latest technologies to makes lives better. <br>
+I am highly fixated and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Automation, and many more to drive success in the technological world. 
 
 <br>
 <br>
