@@ -1,4 +1,4 @@
-## Hey Tech Enthusiasts! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">, This is Deepak ⚡
+## Hii Tech Enthusiasts! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">, This is Deepak ⚡
  <img align="left" alt="GIF" src="https://raw.githubusercontent.com/Deepak9829/Deepak9829/master/LinkdinBac.png" />
  
    <!--social media icon-->
