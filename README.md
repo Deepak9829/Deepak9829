@@ -15,7 +15,7 @@
 <!--About Me-->
 <div>
  <p>
-  <img width="240" height="230" align='right' src="https://github.com/hackcoderr/hackcoderr/blob/main/assets/oct-about.png"> 
+  <img width="240" height="230" align='right' src="https://raw.githubusercontent.com/Deepak9829/IMAGES/master/GITIMG.png"> 
 </p>
 
 <!--
