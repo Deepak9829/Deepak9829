@@ -31,11 +31,11 @@
 
 <img align='left' src='https://raw.githubusercontent.com/Deepak9829/IMAGES/master/WhatsApp%20Image%202022-03-14%20at%205.02.37%20PM.jpeg' width="240" height="230" >
 
-I'm tech enthusiasts who wants to explore & learn the latest technologies to makes lives better. <br>
-I am highly fixated and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Automation, and many more to drive success in the technological world. 
+I'm tech enthusiasts who wants to explore & learn the latest technologies to makes lives better. I am highly fixated and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Automation, and many more to drive success in the technological world.
 
 <br>
-<br>
+
+
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -62,7 +62,8 @@ I am highly fixated and eager to leverage the in-depth knowledge of high-end tec
  ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
  [![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
-
+<br>
+<br>
 <!--footer-->
 
 ##
