@@ -29,7 +29,7 @@
 
 ## Technical Skills 🛠 
 
-<img align='left' src='https://github.com/Deepak9829/IMAGES/blob/64687e6a247be7ab7f5c40383c3ceea016d8aed2/back-end-developer-4098969-3428942.mp4' width="240" height="230" >
+<video align='left' src='https://github.com/Deepak9829/IMAGES/blob/64687e6a247be7ab7f5c40383c3ceea016d8aed2/back-end-developer-4098969-3428942.mp4' width="240" height="230" >
 
 As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies.
 
