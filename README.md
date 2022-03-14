@@ -59,6 +59,10 @@ As we all know that under <b>engineering</b>, technical skills always provide un
  [![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 
+<!--footer-->
+
+##
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919084369325) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
 
 <!--
