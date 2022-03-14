@@ -33,7 +33,8 @@
 
 I'm tech enthusiasts who wants to explore & learn the latest technologies to makes lives better. I am highly fixated and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Automation, and many more to drive success in the technological world.
 
-
+<br>
+<br>
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
