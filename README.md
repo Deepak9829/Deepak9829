@@ -12,6 +12,11 @@
 
 </div>  
 
+<!--About Me-->
+<div>
+ <p>
+  <img width="240" height="230" align='right' src="https://github.com/hackcoderr/hackcoderr/blob/main/assets/oct-about.png"> 
+</p>
 
 <!--
 **Deepak9829/Deepak9829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
