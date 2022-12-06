@@ -1,5 +1,5 @@
 ## Hii Tech Enthusiasts! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px" height="29px">,This is Deepak ⚡
- <img align="left" alt="GIF" src="https://raw.githubusercontent.com/Deepak9829/Deepak9829/master/LinkdinBac.png" />
+ <img align="left" alt="GIF" src="https://raw.githubusercontent.com/Deepak9829/IMAGES/master/Linkdinbanner.jpeg" />
  
    <!--social media icon-->
 <div align="center">
