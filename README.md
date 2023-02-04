@@ -29,7 +29,7 @@
 
 ## Technical Skills 🛠 
 
-<img align='left' src='https://imgbox.com/DNHyox9q' width="240" height="230" >
+<img align='left' src='https://images2.imgbox.com/0a/4d/DNHyox9q_o.jpeg?download=true' width="240" height="230" >
 
 I'm tech enthusiasts who wants to explore & learn the latest technologies to makes lives better. I am highly fixated and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Automation, and many more to drive success in the technological world.
 
