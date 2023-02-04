@@ -1,5 +1,5 @@
 ## Hii Tech Enthusiasts! This is Deepak ⚡
- <img align="left" alt="GIF" src="https://raw.githubusercontent.com/Deepak9829/IMAGES/master/Linkdinbanner.jpeg" />
+ <img align="left" alt="GIF" src="https://images2.imgbox.com/96/d3/ow3CCrvW_o.jpeg?download=true" />
  
    <!--social media icon-->
 <div align="center">
