@@ -15,7 +15,7 @@
 <!--About Me-->
 <div>
  <p>
-  <img width="240" height="230" align='right' src="https://raw.githubusercontent.com/Deepak9829/IMAGES/master/GITIMG.png"> 
+  <img width="240" height="230" align='right' src="https://images2.imgbox.com/ff/bf/E9g3piSV_o.png?download=true"> 
 </p>
  
  ## About Me ✍
